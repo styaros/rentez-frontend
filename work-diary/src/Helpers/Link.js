@@ -1,0 +1,7 @@
+export const SIGN_UP = '/sign-up'
+export const SIGN_IN = '/'
+export const COMPANIES = '/company'
+export const USER = '/user'
+export const SPORTGROUNDS = '/company/'
+export const RESERVATIONS = '/reservation/'
+export const MY_RESERVATIONS = '/my-reservation'

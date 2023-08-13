@@ -1,0 +1,6 @@
+export const EMPLOYEE_API = 'http://localhost:4000/users'
+export const COMPANIES_API = 'http://localhost:4000/companies'
+export const SPORTGROUND_API = 'http://localhost:4000/sportgrounds'
+export const TYPES_API = 'http://localhost:4000/sportground_types'
+export const BOXES_API = 'http://localhost:4000/boxes'
+export const RESERVATION_API = 'http://localhost:4000/reservations'
